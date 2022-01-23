@@ -63,6 +63,7 @@ button {
 .top-part p {
   color: var(--Grayish-Blue);
   padding: 0 2.5rem;
+  line-height: 1.6;
 }
 
 .bottom-part {
